@@ -1,0 +1,12 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "UPL", // or UPL-1.0 for the version
+  "description": "",
+  "devDependencies": {},
+  "dependencies": {}
+}
