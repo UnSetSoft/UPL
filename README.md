@@ -24,7 +24,7 @@ The UPL was created to strike a balance between openness and protection:
 
 ## 📌 How to Apply UPL to Your Project
 
-1. Copy the full [`LICENSE.md`](./LICENSE.md) into the root of your project or just download from release section
+1. Copy the full [`LICENSE.md`](./LICENSE.md) into the root of your project or just download from releases section
 
 ---
 
