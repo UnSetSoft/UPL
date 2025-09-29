@@ -1,0 +1,2 @@
+# UPL
+UnSetSoft Public License
