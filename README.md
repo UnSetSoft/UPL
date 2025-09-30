@@ -38,3 +38,8 @@ If your project uses third-party libraries, you must comply with their licenses 
 
 This license was written to reflect the intentions of UnSetSoft.  
 It is provided **“as is”** and does not replace professional legal advice. 
+
+# Q&A
+
+Can i modify the license for my propoces?
+No. And is not recomended 
