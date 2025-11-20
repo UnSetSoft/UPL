@@ -27,7 +27,7 @@ but it places strict limitations on modification, distribution, and commercial u
 The **UPL-CE 1.0** is the *corporate* version of the license.  
 It becomes active when a company subscribes to the paid tier:
 
-> **“Get a company license for my project — $500/month”**
+> **“Get a company license for my project — $500/month”** (GitHub Sponsors)
 
 With UPL-CE 1.0, companies gain commercial usage rights and permission to modify  
 the software — **but all modifications must still be contributed back upstream.**
